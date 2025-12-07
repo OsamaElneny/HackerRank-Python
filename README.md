@@ -52,6 +52,13 @@ hackerrank-python-solutions/
 5. Run the notebook to test and verify solutions  
 
 ---
+## ⚙️ Installation / Requirements
+
+To run the notebooks, install Python packages listed in `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+
 
 ## 📝 Contribution
 
