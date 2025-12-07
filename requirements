@@ -1,0 +1,7 @@
+# Core packages for HackerRank Python notebooks
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+jupyter
